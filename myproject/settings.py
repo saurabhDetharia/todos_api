@@ -28,7 +28,8 @@ SECRET_KEY = 'django-insecure-$p=tkx))j&$@j==)a2=%q@=%1zm$t)zud0cfnbo)!lgq$hu8$u
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'https://todos-api-ewow.onrender.com'
+    'https://todos-api-ewow.onrender.com',
+    'todos-api-ewow.onrender.com',
 ]
 
 
